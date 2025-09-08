@@ -55,4 +55,4 @@ Tecnologias: **PHP + MySQL + HTML + CSS + JS**
   <a href="https://instagram.com/miguel_jneto">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-</p>)
+</p>

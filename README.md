@@ -32,8 +32,8 @@
 
 ## 📈 Estatísticas do GitHub
 
-![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=MigueljNeto&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MigueljNeto&layout=compact&theme=radical)
 
 ---
 

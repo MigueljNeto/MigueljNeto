@@ -30,7 +30,7 @@ Projeto inspirado na minha experiência profissional.
 🔹 Controle de tempo das máquinas.  
 🔹 Registro de serviços (impressões, atendimentos bancários).  
 🔹 Relatórios completos de clientes.  
-Tecnologias: **PHP + MySQL**  
+Tecnologias: **PHP + MySQL + HTML + CSS + JS** 
 
 ---
 

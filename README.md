@@ -1,6 +1,5 @@
 # Miguel Neto - Desenvolvimento Web & Back-End
-
-🎓 Estudante de **Sistemas da Informação (5º período)**  
+ 
 💻 Desenvolvedor focado em **Web e Back-End**  
 🏦 Experiência prática administrando sistemas em uma Lan House (correspondente bancário)  
 🚀 Sempre em evolução, buscando criar soluções que facilitam o dia a dia  

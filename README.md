@@ -37,8 +37,11 @@ Tecnologias: **PHP + MySQL + HTML + CSS + JS**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MigueljNeto&show_icons=true&theme=radical" height="165"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigueljNeto&layout=compact&theme=radical" height="165"/>
 </p>
+
 
 ---
 

@@ -1,14 +1,14 @@
 👋 Olá, eu sou Miguel Neto
 
-💻 Desenvolvedor Web & Back-End | Em busca de estágio em TI
-🏦 Experiência prática em sistemas de Lan House (correspondente bancário)
-🚀 Apaixonado por tecnologia, aprendendo constantemente e aplicando soluções reais
+💻 Desenvolvedor Web & Back-End | Em busca de estágio em TI <br>
+🏦 Experiência prática em sistemas de Lan House (correspondente bancário) <br>
+🚀 Apaixonado por tecnologia, aprendendo constantemente e aplicando soluções reais <br>
 
 🎯 Objetivo
 
-🔹 Atuar como estagiário em desenvolvimento de software, front-end ou análise de dados
-🔹 Contribuir com projetos práticos, aplicando conhecimentos em Web, Back-End e Banco de Dados
-🔹 Crescer profissionalmente em um ambiente de aprendizado e inovação
+🔹 Atuar como estagiário em desenvolvimento de software, front-end ou análise de dados <br>
+🔹 Contribuir com projetos práticos, aplicando conhecimentos em Web, Back-End e Banco de Dados <br>
+🔹 Crescer profissionalmente em um ambiente de aprendizado e inovação <br>
 
 🛠️ Tecnologias & Ferramentas
 <p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> </p>

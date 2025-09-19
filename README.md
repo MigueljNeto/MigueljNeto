@@ -18,8 +18,8 @@
 🔹 Controle de tempo das máquinas <br>
 🔹 Registro de serviços (impressões, atendimentos bancários) <br>
 🔹 Relatórios completos de clientes <br>
-Tecnologias: PHP, MySQL, HTML, CSS, JavaScript <br>
-🔗 Ver Projeto <br>
+Tecnologias: PHP, MySQL, HTML, CSS, JavaScript <br> <br>
+🔗 [Ver Projeto](https://github.com/MigueljNeto/nome-do-projeto)
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MigueljNeto&show_icons=true&theme=radical" height="165"/> <img src="https://img.shields.io/github/languages/top/MigueljNeto?color=red&label=Top%20Language" height="165"/> </p>

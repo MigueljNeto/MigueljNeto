@@ -9,10 +9,10 @@
 📌 Projetos em Destaque
 🖥️ Sistema de Lan House
 
-<p 🔹 Controle de tempo das máquinas/>
-<p🔹 Registro de serviços (impressões, atendimentos bancários)/>
-<p🔹 Relatórios completos de clientes/>
-<p Tecnologias: PHP, MySQL, HTML, CSS, JavaScript/>
+<p 🔹 Controle de tempo das máquinas >
+<p🔹 Registro de serviços (impressões, atendimentos bancários) >
+<p🔹 Relatórios completos de clientes >
+<p Tecnologias: PHP, MySQL, HTML, CSS, JavaScript >
 🔗 Ver Projeto
 
 📊 GitHub Stats

@@ -15,19 +15,11 @@
 📌 Projetos em Destaque
 🖥️ Sistema de Lan House
 
-🔹 Controle de tempo das máquinas
-🔹 Registro de serviços (impressões, atendimentos bancários)
-🔹 Relatórios completos de clientes
-Tecnologias: PHP, MySQL, HTML, CSS, JavaScript
-🔗 Ver Projeto
-
-🚀 Sistema de Gerenciamento Financeiro
-
-🔹 Controle de despesas e receitas
-🔹 Relatórios mensais automáticos
-🔹 Dashboard simples e intuitivo
-Tecnologias: Node.js, JavaScript, HTML, CSS, MySQL
-🔗 Ver Projeto
+🔹 Controle de tempo das máquinas <br>
+🔹 Registro de serviços (impressões, atendimentos bancários) <br>
+🔹 Relatórios completos de clientes <br>
+Tecnologias: PHP, MySQL, HTML, CSS, JavaScript <br>
+🔗 Ver Projeto <br>
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MigueljNeto&show_icons=true&theme=radical" height="165"/> <img src="https://img.shields.io/github/languages/top/MigueljNeto?color=red&label=Top%20Language" height="165"/> </p>
